@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/darkPrimary</item>
+        <item name="android:windowBackground">@color/bg_login</item>
+
+    </style>
+
+
+
+</resources>

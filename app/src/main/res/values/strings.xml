@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CentroComercial</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_password_2">Confirma tu Password</string>
+    <string name="login_button">Ingresar</string>
+    <string name="btn_link_to_login">No tienes cuenta, creala aqui</string>
+    <string name="hint_nombre_completo">Nombre Completo</string>
+    <string name="text_btn_registrar">Registrar</string>
+    <string name="login_missing_values">Algun campo esta vacio</string>
+    <string name="hint_confirm_password">Confirma tu password</string>
+</resources>
